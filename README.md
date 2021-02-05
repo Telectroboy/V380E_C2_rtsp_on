@@ -1,6 +1,6 @@
 # V380E_C2_rtsp_on
 Activation of RTSP on V380 PTZ camera
-For Software V380E_C2_V2.5.0.5
+For Software V380E_C2_V2.5.0.5 Con be found here https://github.com/Telectroboy/V380E_C2_V2.5.0.5
 
 
 Here's the upgrade guidance:
